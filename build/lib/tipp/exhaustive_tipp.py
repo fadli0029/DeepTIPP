@@ -197,12 +197,6 @@ class TIPPJoinAlignJobs(JoinAlignJobs):
                 # fullExtendedAlignment.write_to_path(
                 #    pj.extended_alignment_file, schema="PHYLIP")
 
-            ######################## -- ADDED -- ######################## 
-            elif self.placer == "depp":
-                # assert isinstance(pj, EPAJob)
-                raise ValueError("DEPP Currently not supported")
-            ######################## ----------- ######################## 
-
             # keep the extended alignment on everything
             # pj.set_attribute("full_extended_alignment_object",
             # fullExtendedAlignment)

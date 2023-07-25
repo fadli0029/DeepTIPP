@@ -1,0 +1,669 @@
+EAS25_26_1_15_381_1761_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_15_381_1761_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_15_381_1761_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_15_381_1761_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_15_381_1761_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_15_381_1761_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_15_381_1761_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_15_381_1761_0_1,1,root,root,1.0000
+EAS25_26_1_15_381_1761_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_15_381_1761_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_15_381_1761_0_2,1,root,root,1.0000
+EAS25_26_1_15_381_1761_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_91_1568_1871_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_91_1568_1871_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_91_1568_1871_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_91_1568_1871_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_91_1568_1871_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_91_1568_1871_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_91_1568_1871_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_91_1568_1871_0_1,1,root,root,1.0000
+EAS25_26_1_91_1568_1871_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_46_1765_665_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_46_1765_665_0_1,1,root,root,1.0000
+EAS25_26_1_46_1765_665_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_91_1568_1871_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_91_1568_1871_0_2,1,root,root,1.0000
+EAS25_26_1_91_1568_1871_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_17_468_1929_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_17_468_1929_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_17_468_1929_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_17_468_1929_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_17_468_1929_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_17_468_1929_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_17_468_1929_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_17_468_1929_0_2,1,root,root,1.0000
+EAS25_26_1_17_468_1929_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_17_468_1929_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_17_468_1929_0_1,28889,Crenarchaeota,phylum,1.0000
+EAS25_26_1_17_468_1929_0_1,183924,Thermoprotei,class,1.0000
+EAS25_26_1_17_468_1929_0_1,1,root,root,1.0000
+EAS25_26_1_17_468_1929_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_96_665_763_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_96_665_763_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_96_665_763_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_96_665_763_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_96_665_763_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_96_665_763_0_1,1,root,root,1.0000
+EAS25_26_1_96_665_763_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_58_1347_865_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_58_1347_865_0_2,1,root,root,1.0000
+EAS25_26_1_58_1347_865_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_96_665_763_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_96_665_763_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_96_665_763_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_96_665_763_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_96_665_763_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_96_665_763_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_96_665_763_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_96_665_763_0_2,1,root,root,1.0000
+EAS25_26_1_96_665_763_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_59_1378_334_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_59_1378_334_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_59_1378_334_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_59_1378_334_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_59_1378_334_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_59_1378_334_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_59_1378_334_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_59_1378_334_0_2,1,root,root,1.0000
+EAS25_26_1_59_1378_334_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_30_759_1243_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_30_759_1243_0_1,1,root,root,1.0000
+EAS25_26_1_30_759_1243_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_30_759_1243_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_30_759_1243_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_30_759_1243_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_30_759_1243_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_30_759_1243_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_30_759_1243_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_30_759_1243_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_30_759_1243_0_2,1,root,root,1.0000
+EAS25_26_1_30_759_1243_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_36_208_252_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_36_208_252_0_1,28889,Crenarchaeota,phylum,1.0000
+EAS25_26_1_36_208_252_0_1,183924,Thermoprotei,class,1.0000
+EAS25_26_1_36_208_252_0_1,1,root,root,1.0000
+EAS25_26_1_36_208_252_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_47_115_296_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_47_115_296_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_47_115_296_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_47_115_296_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_47_115_296_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_47_115_296_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_47_115_296_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_47_115_296_0_2,1,root,root,1.0000
+EAS25_26_1_47_115_296_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_36_208_252_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_36_208_252_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_36_208_252_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_36_208_252_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_36_208_252_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_36_208_252_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_36_208_252_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_36_208_252_0_2,1,root,root,1.0000
+EAS25_26_1_36_208_252_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_18_1277_210_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_18_1277_210_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_18_1277_210_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_18_1277_210_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_18_1277_210_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_18_1277_210_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_18_1277_210_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_18_1277_210_0_2,1,root,root,1.0000
+EAS25_26_1_18_1277_210_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_95_1632_1570_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_95_1632_1570_0_1,1,root,root,1.0000
+EAS25_26_1_95_1632_1570_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_11_733_1260_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_11_733_1260_0_1,1,root,root,1.0000
+EAS25_26_1_11_733_1260_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_11_733_1260_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_95_1632_1570_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_95_1632_1570_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_95_1632_1570_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_95_1632_1570_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_95_1632_1570_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_95_1632_1570_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_95_1632_1570_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_95_1632_1570_0_2,1,root,root,1.0000
+EAS25_26_1_95_1632_1570_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_11_733_1260_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_11_733_1260_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_11_733_1260_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_11_733_1260_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_11_733_1260_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_11_733_1260_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_11_733_1260_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_11_733_1260_0_2,1,root,root,1.0000
+EAS25_26_1_11_733_1260_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_97_1742_1662_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_97_1742_1662_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_97_1742_1662_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_97_1742_1662_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_97_1742_1662_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_97_1742_1662_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_97_1742_1662_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_97_1742_1662_0_1,1,root,root,1.0000
+EAS25_26_1_97_1742_1662_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_74_1184_12_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_74_1184_12_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_74_1184_12_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_74_1184_12_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_74_1184_12_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_74_1184_12_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_74_1184_12_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_74_1184_12_0_1,1,root,root,1.0000
+EAS25_26_1_74_1184_12_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_50_1306_1569_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_50_1306_1569_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_50_1306_1569_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_50_1306_1569_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_50_1306_1569_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_50_1306_1569_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_50_1306_1569_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_50_1306_1569_0_1,1,root,root,1.0000
+EAS25_26_1_50_1306_1569_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_50_1306_1569_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_50_1306_1569_0_2,1,root,root,1.0000
+EAS25_26_1_50_1306_1569_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_72_1337_1881_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_72_1337_1881_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_72_1337_1881_0_1,183939,Methanococci,class,1.0000
+EAS25_26_1_72_1337_1881_0_1,2182,Methanococcales,order,1.0000
+EAS25_26_1_72_1337_1881_0_1,1,root,root,1.0000
+EAS25_26_1_72_1337_1881_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_74_1184_12_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_74_1184_12_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_74_1184_12_0_2,1,root,root,1.0000
+EAS25_26_1_72_1337_1881_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_72_1337_1881_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_72_1337_1881_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_72_1337_1881_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_72_1337_1881_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_72_1337_1881_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_72_1337_1881_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_72_1337_1881_0_2,1,root,root,1.0000
+EAS25_26_1_72_1337_1881_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_37_1548_859_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_37_1548_859_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_37_1548_859_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_37_1548_859_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_37_1548_859_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_37_1548_859_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_37_1548_859_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_37_1548_859_0_2,1,root,root,1.0000
+EAS25_26_1_37_1548_859_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_52_694_1940_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_52_694_1940_0_1,1,root,root,1.0000
+EAS25_26_1_52_694_1940_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_52_694_1940_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_81_687_138_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_81_687_138_0_1,1,root,root,1.0000
+EAS25_26_1_81_687_138_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_20_1013_1122_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_20_1013_1122_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_20_1013_1122_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_20_1013_1122_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_20_1013_1122_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_20_1013_1122_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_20_1013_1122_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_20_1013_1122_0_1,1,root,root,1.0000
+EAS25_26_1_20_1013_1122_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_52_694_1940_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_52_694_1940_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_52_694_1940_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_52_694_1940_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_52_694_1940_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_52_694_1940_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_52_694_1940_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_52_694_1940_0_2,1,root,root,1.0000
+EAS25_26_1_52_694_1940_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_98_96_790_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_98_96_790_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_98_96_790_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_98_96_790_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_98_96_790_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_98_96_790_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_98_96_790_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_98_96_790_0_2,1,root,root,1.0000
+EAS25_26_1_98_96_790_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_98_96_790_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_98_96_790_0_1,1,root,root,1.0000
+EAS25_26_1_98_96_790_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_3_1480_1966_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_3_1480_1966_0_2,28889,Crenarchaeota,phylum,1.0000
+EAS25_26_1_3_1480_1966_0_2,183924,Thermoprotei,class,1.0000
+EAS25_26_1_3_1480_1966_0_2,1,root,root,1.0000
+EAS25_26_1_3_1480_1966_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_83_836_488_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_83_836_488_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_83_836_488_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_83_836_488_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_83_836_488_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_83_836_488_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_83_836_488_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_83_836_488_0_1,1,root,root,1.0000
+EAS25_26_1_83_836_488_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_83_836_488_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_83_836_488_0_2,1,root,root,1.0000
+EAS25_26_1_83_836_488_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_54_761_137_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_54_761_137_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_54_761_137_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_54_761_137_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_54_761_137_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_54_761_137_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_54_761_137_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_54_761_137_0_1,1,root,root,1.0000
+EAS25_26_1_54_761_137_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_69_706_1319_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_69_706_1319_0_2,1,root,root,1.0000
+EAS25_26_1_69_706_1319_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_43_1380_1644_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_43_1380_1644_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_43_1380_1644_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_43_1380_1644_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_43_1380_1644_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_43_1380_1644_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_43_1380_1644_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_43_1380_1644_0_1,1,root,root,1.0000
+EAS25_26_1_43_1380_1644_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_43_1380_1644_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_43_1380_1644_0_2,1,root,root,1.0000
+EAS25_26_1_43_1380_1644_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_43_1380_1644_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_69_706_1319_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_69_706_1319_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_69_706_1319_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_69_706_1319_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_69_706_1319_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_69_706_1319_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_69_706_1319_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_69_706_1319_0_1,1,root,root,1.0000
+EAS25_26_1_69_706_1319_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_32_1503_836_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_32_1503_836_0_2,1,root,root,1.0000
+EAS25_26_1_32_1503_836_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_32_1503_836_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_32_1503_836_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_32_1503_836_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_32_1503_836_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_32_1503_836_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_32_1503_836_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_32_1503_836_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_32_1503_836_0_1,1,root,root,1.0000
+EAS25_26_1_32_1503_836_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_54_761_137_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_54_761_137_0_2,1,root,root,1.0000
+EAS25_26_1_54_761_137_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_60_946_1914_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_60_946_1914_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_60_946_1914_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_60_946_1914_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_60_946_1914_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_60_946_1914_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_60_946_1914_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_60_946_1914_0_2,1,root,root,1.0000
+EAS25_26_1_60_946_1914_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_94_1482_1892_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_94_1482_1892_0_1,1,root,root,1.0000
+EAS25_26_1_94_1482_1892_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_94_1482_1892_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_92_73_1106_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_92_73_1106_0_1,1,root,root,1.0000
+EAS25_26_1_92_73_1106_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_94_1482_1892_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_94_1482_1892_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_94_1482_1892_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_94_1482_1892_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_94_1482_1892_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_94_1482_1892_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_94_1482_1892_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_94_1482_1892_0_2,1,root,root,1.0000
+EAS25_26_1_94_1482_1892_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_73_1668_157_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_73_1668_157_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_73_1668_157_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_73_1668_157_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_73_1668_157_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_73_1668_157_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_73_1668_157_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_73_1668_157_0_2,1,root,root,1.0000
+EAS25_26_1_73_1668_157_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_69_127_641_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_69_127_641_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_69_127_641_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_69_127_641_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_69_127_641_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_69_127_641_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_69_127_641_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_69_127_641_0_2,1,root,root,1.0000
+EAS25_26_1_69_127_641_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_18_1248_950_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_18_1248_950_0_1,1,root,root,1.0000
+EAS25_26_1_18_1248_950_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_18_1248_950_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_18_1248_950_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_18_1248_950_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_18_1248_950_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_18_1248_950_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_18_1248_950_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_18_1248_950_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_18_1248_950_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_18_1248_950_0_2,1,root,root,1.0000
+EAS25_26_1_18_1248_950_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_60_946_1914_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_60_946_1914_0_1,28889,Crenarchaeota,phylum,1.0000
+EAS25_26_1_60_946_1914_0_1,183924,Thermoprotei,class,1.0000
+EAS25_26_1_60_946_1914_0_1,1,root,root,1.0000
+EAS25_26_1_60_946_1914_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_69_127_641_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_69_127_641_0_1,1,root,root,1.0000
+EAS25_26_1_69_127_641_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_73_1668_157_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_73_1668_157_0_1,1,root,root,1.0000
+EAS25_26_1_73_1668_157_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_73_1668_157_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_44_1471_883_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_44_1471_883_0_2,1,root,root,1.0000
+EAS25_26_1_44_1471_883_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_44_1471_883_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_87_1268_1554_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_87_1268_1554_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_87_1268_1554_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_87_1268_1554_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_87_1268_1554_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_87_1268_1554_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_87_1268_1554_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_87_1268_1554_0_1,1,root,root,1.0000
+EAS25_26_1_87_1268_1554_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_87_1268_1554_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_87_1268_1554_0_2,1,root,root,1.0000
+EAS25_26_1_87_1268_1554_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_4_641_235_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_4_641_235_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_4_641_235_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_4_641_235_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_4_641_235_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_4_641_235_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_4_641_235_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_4_641_235_0_1,1,root,root,1.0000
+EAS25_26_1_4_641_235_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_16_1241_1747_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_16_1241_1747_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_16_1241_1747_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_16_1241_1747_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_16_1241_1747_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_16_1241_1747_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_16_1241_1747_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_16_1241_1747_0_1,1,root,root,1.0000
+EAS25_26_1_16_1241_1747_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_4_641_235_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_4_641_235_0_2,1,root,root,1.0000
+EAS25_26_1_4_641_235_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_4_641_235_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_38_78_325_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_38_78_325_0_2,1,root,root,1.0000
+EAS25_26_1_38_78_325_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_79_610_1048_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_79_610_1048_0_1,1,root,root,1.0000
+EAS25_26_1_79_610_1048_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_32_1169_150_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_32_1169_150_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_32_1169_150_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_32_1169_150_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_32_1169_150_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_32_1169_150_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_32_1169_150_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_32_1169_150_0_1,1,root,root,1.0000
+EAS25_26_1_32_1169_150_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_44_1471_883_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_44_1471_883_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_44_1471_883_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_44_1471_883_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_44_1471_883_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_44_1471_883_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_44_1471_883_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_44_1471_883_0_1,1,root,root,1.0000
+EAS25_26_1_44_1471_883_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_38_78_325_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_38_78_325_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_38_78_325_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_38_78_325_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_38_78_325_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_38_78_325_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_38_78_325_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_38_78_325_0_1,1,root,root,1.0000
+EAS25_26_1_38_78_325_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_93_1183_360_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_93_1183_360_0_1,1,root,root,1.0000
+EAS25_26_1_93_1183_360_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_93_1183_360_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_93_1183_360_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_93_1183_360_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_93_1183_360_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_93_1183_360_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_93_1183_360_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_93_1183_360_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_93_1183_360_0_2,1,root,root,1.0000
+EAS25_26_1_93_1183_360_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_85_1697_557_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_85_1697_557_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_85_1697_557_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_85_1697_557_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_85_1697_557_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_85_1697_557_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_85_1697_557_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_85_1697_557_0_1,1,root,root,1.0000
+EAS25_26_1_85_1697_557_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_16_1241_1747_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_16_1241_1747_0_2,1,root,root,1.0000
+EAS25_26_1_16_1241_1747_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_16_1241_1747_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_85_1697_557_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_85_1697_557_0_2,1,root,root,1.0000
+EAS25_26_1_85_1697_557_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_50_1001_1564_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_50_1001_1564_0_1,28889,Crenarchaeota,phylum,1.0000
+EAS25_26_1_50_1001_1564_0_1,183924,Thermoprotei,class,1.0000
+EAS25_26_1_50_1001_1564_0_1,1,root,root,1.0000
+EAS25_26_1_50_1001_1564_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_50_1001_1564_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_50_1001_1564_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_50_1001_1564_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_50_1001_1564_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_50_1001_1564_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_50_1001_1564_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_50_1001_1564_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_50_1001_1564_0_2,1,root,root,1.0000
+EAS25_26_1_50_1001_1564_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_72_1704_924_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_72_1704_924_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_72_1704_924_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_72_1704_924_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_72_1704_924_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_72_1704_924_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_72_1704_924_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_72_1704_924_0_1,1,root,root,1.0000
+EAS25_26_1_72_1704_924_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_72_1704_924_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_72_1704_924_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_72_1704_924_0_2,183939,Methanococci,class,1.0000
+EAS25_26_1_72_1704_924_0_2,196117,Methanocaldococcaceae,family,1.0000
+EAS25_26_1_72_1704_924_0_2,2182,Methanococcales,order,1.0000
+EAS25_26_1_72_1704_924_0_2,196118,Methanocaldococcus,genus,1.0000
+EAS25_26_1_72_1704_924_0_2,1,root,root,1.0000
+EAS25_26_1_72_1704_924_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_3_1480_1966_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_3_1480_1966_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_3_1480_1966_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_3_1480_1966_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_3_1480_1966_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_3_1480_1966_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_3_1480_1966_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_3_1480_1966_0_1,1,root,root,1.0000
+EAS25_26_1_3_1480_1966_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_38_620_778_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_38_620_778_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_38_620_778_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_38_620_778_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_38_620_778_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_38_620_778_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_38_620_778_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_38_620_778_0_1,1,root,root,1.0000
+EAS25_26_1_38_620_778_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_2_1099_623_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_2_1099_623_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_2_1099_623_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_2_1099_623_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_2_1099_623_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_2_1099_623_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_2_1099_623_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_2_1099_623_0_1,1,root,root,1.0000
+EAS25_26_1_2_1099_623_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_31_950_317_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_31_950_317_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_31_950_317_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_31_950_317_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_31_950_317_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_31_950_317_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_31_950_317_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_31_950_317_0_2,1,root,root,1.0000
+EAS25_26_1_31_950_317_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_31_950_317_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_31_950_317_0_1,28889,Crenarchaeota,phylum,1.0000
+EAS25_26_1_31_950_317_0_1,183924,Thermoprotei,class,1.0000
+EAS25_26_1_31_950_317_0_1,1,root,root,1.0000
+EAS25_26_1_31_950_317_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_2_1099_623_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_2_1099_623_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_2_1099_623_0_2,183939,Methanococci,class,1.0000
+EAS25_26_1_2_1099_623_0_2,2182,Methanococcales,order,1.0000
+EAS25_26_1_2_1099_623_0_2,1,root,root,1.0000
+EAS25_26_1_2_1099_623_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_84_541_1373_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_84_541_1373_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_84_541_1373_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_84_541_1373_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_84_541_1373_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_84_541_1373_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_84_541_1373_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_84_541_1373_0_2,1,root,root,1.0000
+EAS25_26_1_84_541_1373_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_84_541_1373_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_84_541_1373_0_1,28889,Crenarchaeota,phylum,1.0000
+EAS25_26_1_84_541_1373_0_1,183924,Thermoprotei,class,1.0000
+EAS25_26_1_84_541_1373_0_1,1,root,root,1.0000
+EAS25_26_1_84_541_1373_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_68_1647_1816_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_68_1647_1816_0_1,1,root,root,1.0000
+EAS25_26_1_68_1647_1816_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_68_1647_1816_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_31_1448_959_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_31_1448_959_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_31_1448_959_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_31_1448_959_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_31_1448_959_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_31_1448_959_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_31_1448_959_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_31_1448_959_0_2,1,root,root,1.0000
+EAS25_26_1_31_1448_959_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_97_1739_1663_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_97_1739_1663_0_2,1,root,root,1.0000
+EAS25_26_1_97_1739_1663_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_31_1448_959_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_31_1448_959_0_1,1,root,root,1.0000
+EAS25_26_1_31_1448_959_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_31_1448_959_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_98_253_624_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_98_253_624_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_98_253_624_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_98_253_624_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_98_253_624_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_98_253_624_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_98_253_624_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_98_253_624_0_1,1,root,root,1.0000
+EAS25_26_1_98_253_624_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_98_253_624_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_98_253_624_0_2,1,root,root,1.0000
+EAS25_26_1_98_253_624_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_37_1548_859_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_37_1548_859_0_1,1,root,root,1.0000
+EAS25_26_1_37_1548_859_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_37_1548_859_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_75_674_1432_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_75_674_1432_0_2,183939,Methanococci,class,1.0000
+EAS25_26_1_75_674_1432_0_2,2182,Methanococcales,order,1.0000
+EAS25_26_1_75_674_1432_0_2,1,root,root,1.0000
+EAS25_26_1_75_674_1432_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_75_674_1432_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_73_1497_376_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_73_1497_376_0_2,1,root,root,1.0000
+EAS25_26_1_73_1497_376_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_73_1497_376_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_15_656_459_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_15_656_459_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_15_656_459_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_15_656_459_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_15_656_459_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_15_656_459_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_15_656_459_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_15_656_459_0_1,1,root,root,1.0000
+EAS25_26_1_15_656_459_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_73_1497_376_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_73_1497_376_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_73_1497_376_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_73_1497_376_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_73_1497_376_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_73_1497_376_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_73_1497_376_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_73_1497_376_0_1,1,root,root,1.0000
+EAS25_26_1_73_1497_376_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_15_656_459_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_15_656_459_0_2,1,root,root,1.0000
+EAS25_26_1_15_656_459_0_2,2236,Halobacteriaceae,family,1.0000
+EAS25_26_1_15_656_459_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_15_656_459_0_2,2235,Halobacteriales,order,1.0000
+EAS25_26_1_15_656_459_0_2,183963,Halobacteria,class,1.0000
+EAS25_26_1_15_656_459_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_6_1273_1511_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_6_1273_1511_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_6_1273_1511_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_6_1273_1511_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_6_1273_1511_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_6_1273_1511_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_6_1273_1511_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_6_1273_1511_0_1,1,root,root,1.0000
+EAS25_26_1_6_1273_1511_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_6_1273_1511_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_6_1273_1511_0_2,1,root,root,1.0000
+EAS25_26_1_6_1273_1511_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_51_232_718_0_2,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_51_232_718_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_51_232_718_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_51_232_718_0_2,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_51_232_718_0_2,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_51_232_718_0_2,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_51_232_718_0_2,183925,Methanobacteria,class,1.0000
+EAS25_26_1_51_232_718_0_2,1,root,root,1.0000
+EAS25_26_1_51_232_718_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_51_232_718_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_51_232_718_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_51_232_718_0_1,2235,Halobacteriales,order,1.0000
+EAS25_26_1_51_232_718_0_1,1,root,root,1.0000
+EAS25_26_1_51_232_718_0_1,2236,Halobacteriaceae,family,1.0000
+EAS25_26_1_51_232_718_0_1,183963,Halobacteria,class,1.0000
+EAS25_26_1_51_232_718_0_1,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_100_940_776_0_2,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_100_940_776_0_2,1,root,root,1.0000
+EAS25_26_1_100_940_776_0_2,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_100_940_776_0_2,28890,Euryarchaeota,phylum,1.0000
+EAS25_26_1_100_940_776_0_1,2173,Methanobrevibacter smithii,species,1.0000
+EAS25_26_1_100_940_776_0_1,2157,Archaea,superkingdom,1.0000
+EAS25_26_1_100_940_776_0_1,131567,cellular organisms,below_root,1.0000
+EAS25_26_1_100_940_776_0_1,2159,Methanobacteriaceae,family,1.0000
+EAS25_26_1_100_940_776_0_1,2172,Methanobrevibacter,genus,1.0000
+EAS25_26_1_100_940_776_0_1,2158,Methanobacteriales,order,1.0000
+EAS25_26_1_100_940_776_0_1,183925,Methanobacteria,class,1.0000
+EAS25_26_1_100_940_776_0_1,1,root,root,1.0000
+EAS25_26_1_100_940_776_0_1,28890,Euryarchaeota,phylum,1.0000

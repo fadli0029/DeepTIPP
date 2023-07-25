@@ -1,0 +1,14 @@
+README.md
+home.path
+run_abundance.py
+run_tipp.py
+run_tipp_tool.py
+setup.py
+tipp/__init__.py
+tipp/exhaustive_tipp.py
+tipp/metagenomics.py
+tipp.egg-info/PKG-INFO
+tipp.egg-info/SOURCES.txt
+tipp.egg-info/dependency_links.txt
+tipp.egg-info/requires.txt
+tipp.egg-info/top_level.txt

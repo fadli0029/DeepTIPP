@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: tipp
+Version: 1.1.0
+Summary: SATe enabled phylogenetic placement.
+Home-page: https://github.com/smirarab/sepp
+Author: Siavash Mirarab and Nam Nguyen
+Author-email: smirarab@gmail.com, namphuon@cs.utah.edu
+License: General Public License (GPL)
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Provides: tipp
